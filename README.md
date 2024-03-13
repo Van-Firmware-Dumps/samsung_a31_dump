@@ -1,0 +1,20 @@
+## a31ks-user 12 SP1A.210812.016 A315NKSS4DWL1 release-keys
+- Manufacturer: samsung
+- Platform: mt6768
+- Codename: a31
+- Brand: samsung
+- Flavor: a31ks-user
+- Release Version: 12
+- Kernel Version: 4.14.186
+- Id: SP1A.210812.016
+- Incremental: A315NKSS4DWL1
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: ko-KR
+- Screen Density: undefined
+- Fingerprint: samsung/a31ks/a31:12/SP1A.210812.016/A315NKSS4DWL1:user/release-keys
+- OTA version: 
+- Branch: a31ks-user-12-SP1A.210812.016-A315NKSS4DWL1-release-keys
+- Repo: samsung_a31_dump
